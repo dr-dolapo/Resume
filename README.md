@@ -10,7 +10,7 @@ I am the product guy who enjoys going from "We should probably build this" to "H
 
 I have done this full-time across financial technology startups ([Cowrywise](https://cowrywise.com)) and enterprise commerce unicorns ([commercetools](https://commercetools.com)). 
 
-Off the clock, I mentor and teach product managers on becoming AI Product managers at [ProductDive](https://productdive.com/ai-product-management-program/) and work very hard on improving my tennis 🎾 backhand.
+Off the clock, I mentor and teach product managers on becoming AI Product managers at [ProductDive](https://productdive.com/ai-product-management-program/) and work a little too hard on improving my tennis 🎾 backhand.
 
 ---
 
