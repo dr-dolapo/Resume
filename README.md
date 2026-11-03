@@ -13,4 +13,7 @@ I have done this full-time across financial technology startups ([Cowrywise](htt
 Off the clock, I mentor and teach product managers on becoming AI Product managers at [ProductDive](https://productdive.com/ai-product-management-program/) and work a little too hard on improving my tennis 🎾 backhand.
 
 ---
+## Selected Writing
 
+- **[AI Hub Simplifies Agentic Commerce for Retailers](https://commercetools.com/blog/ai-hub-simplifies-agentic-commerce-for-retailers)** - commercetools blog article, April 2026
+- **[Agentic Commerce Protocol - Deep Dive Guide](https://commercetools.com/blog/agentic-commerce-protocol-acp-deep-dive-guide)** - commercetools blog article, April 2026
