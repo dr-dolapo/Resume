@@ -13,7 +13,13 @@ I have done this full-time across financial technology startups ([Cowrywise](htt
 Off the clock, I mentor and teach product managers on becoming AI Product managers at [ProductDive](https://productdive.com/ai-product-management-program/) and work a little too hard on improving my tennis 🎾 backhand.
 
 ---
-## Selected Writing
+## Selected Writing ✍🏻
 
 - **[AI Hub Simplifies Agentic Commerce for Retailers](https://commercetools.com/blog/ai-hub-simplifies-agentic-commerce-for-retailers)** - commercetools blog article, April 2026
 - **[Agentic Commerce Protocol - Deep Dive Guide](https://commercetools.com/blog/agentic-commerce-protocol-acp-deep-dive-guide)** - commercetools blog article, April 2026
+
+
+## Selected talks 📺
+
+- **[From Medical Doctor to Data Guy](https://www.youtube.com/watch?v=VLWw2TAfCCo)** - Community Ask Me Anything session on data analysis, December 2020
+- **[Introduction to Microsoft Excel](https://www.youtube.com/watch?v=ChiM4qFMXDk)** - Cowrywise Amabassadors (college undergraduates) facilitated session, August 2021
