@@ -1,6 +1,6 @@
 # Dolapo Amusan
 
-**Agentic Product Leader & API Product Manager**
+**Senior Technical Product Manager (Agentic & API products)**
 
 dolapo.amusan@gmail.com | Remote working GMT+/- 4hours | [LinkedIn](https://www.linkedin.com/in/dolapoamusan/) | 
 
