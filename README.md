@@ -2,7 +2,7 @@
 
 **Senior Technical Product Manager (Agentic & API products)**
 
-dolapo.amusan@gmail.com | Remote working GMT+/- 4hours | [LinkedIn](https://www.linkedin.com/in/dolapoamusan/) | 
+dolapo.amusan@gmail.com | Remote working GMT+/-4 | [LinkedIn](https://www.linkedin.com/in/dolapoamusan/) | 
 
 ---
 
